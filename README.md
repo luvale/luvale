@@ -5,7 +5,9 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluvaleanuraghazra&show_icons=true&theme=gruvbox)
 
-    <iframe src="https://giphy.com/embed/NGoWuyvI9Tdny" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-squarepants-burger-funny-NGoWuyvI9Tdny">via GIPHY</a></p>
+<img src="https://giphy.com/embed/NGoWuyvI9Tdny" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+    
+<p><a href="https://giphy.com/gifs/spongebob-squarepants-burger-funny-NGoWuyvI9Tdny">via GIPHY</a></p>
 
 
 <!--
