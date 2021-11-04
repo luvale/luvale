@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/valeria-espinoza-/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="18" width="18">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="21" width="21">
     
 ### Hi there 👋
 
