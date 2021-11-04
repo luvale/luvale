@@ -5,10 +5,7 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluvaleanuraghazra&show_icons=true&theme=gruvbox)
 
-<img src="https://giphy.com/gifs/spongebob-squarepants-burger-funny-NGoWuyvI9Tdny" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-    
-<p><a href="https://giphy.com/gifs/spongebob-squarepants-burger-funny-NGoWuyvI9Tdny">via GIPHY</a></p>
-
+  
 
 <!--
 **luvale/luvale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
