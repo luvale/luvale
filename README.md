@@ -3,7 +3,7 @@
     
 ### Hi, I'm Valeria 👋
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluvaleanuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luvaleanuraghazra&show_icons=true&theme=radical)
 
 
 
