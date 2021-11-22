@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm Valeria✨</h2>
 <p align="center"><img src="https://media0.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=ecf05e476qvb3tqi3lby6mnu88qhnr5w1srrqcwepklotcbo&rid=giphy.gif&ct=s" width="100" height="100"></p>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;I+love+learning+new+things+💙&center=true&width=500&height=50"></a></p>
-<br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="45">
