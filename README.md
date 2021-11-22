@@ -8,13 +8,9 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="45">
-
 <img alt="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="45">
-
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45">
-
 <img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="45">
-
 <img alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="45">
 
 <img alt="Firebase" src ="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="45">
