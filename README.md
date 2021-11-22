@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer;I+love+learning+new+things+💙&center=true&width=500&height=50"></a>
 <br>
 <h2 align="center">Languages and Tools:</h2>
-
+<p align="center">
 <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="45">
 <img alt="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="45">
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45">
@@ -15,7 +15,7 @@
 <img alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="45">
 <img alt="Figma" src ="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="45">
 <img alt="Netflify" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="45">
-
+</p>
 <br>
 
 <h2 align="center">Connect with me:</h2>
