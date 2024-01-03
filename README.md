@@ -4,6 +4,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
 <img alt="Angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="45">
+<img alt="Ionic" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-ar21.svg" height="45">
 <img alt="Typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="45">
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45">
 <img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="45">
