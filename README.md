@@ -9,10 +9,10 @@
 <img alt="Javascript" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="45">
 <img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="45">
 <img alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="45">
+<img alt="Figma" src ="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="45">
 <img alt="Firebase" src ="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="45">
 <img alt="Node.Js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="45">
 <img alt="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="45">
-<img alt="Figma" src ="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="45">
 <img alt="Netflify" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="45">
 </p>
 <br>
